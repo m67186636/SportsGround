@@ -360,3 +360,5 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/src/BD.SportsGround/EntityFrameworkCore/Ground.cs
+/src/BD.SportsGround/appsettings.json
